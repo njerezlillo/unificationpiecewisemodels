@@ -10,4 +10,4 @@
 
 [**A unification approach in semi-parametric piecewise models.**](http://dx.doi.org/10.1080/02664763.2026.2621269)  
 *Jerez-Lillo N., Guevara I., Quispe L., Paredes F., P. L. Ramos*   
-Journal of Applied Statistics, Accepted-January (2026)
+Journal of Applied Statistics, 1-24 (2026)
